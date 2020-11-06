@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#fff</color>
+    <color name="btnTextColor">#80ffffff</color>
+    <color name="btn_chose">#53C203</color>
+    <color name="btn_unchose">#a5a9aa</color>
+    <color name="background_gray_color">#f7f7f7</color>
+    <color name="me_bg">#4EAFA6</color>
+    <color name="fragment_me_color">#f7f7f7</color>
+    <color name="login_select">#157C72</color>
+    <color name="login_unselect">#83A8A4</color>
+    <color name="login_textColor">#83A8A4</color>
+    <color name="linearlayout_color">#f7f7f7</color>
+    <color name="home_title_color">#2A712D</color>
+    <color name="home_time_color">#555454</color>
+    <color name="card_select">#a5a9aa</color>
+    <color name="TabColor">#2A712D</color>
+    <color name="lable_select_bg">#009688</color>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--labelsView的label背景-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--标签选中时的背景-->
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:radius="10dp"/>
+            <solid android:color="@color/lable_select_bg"/>
+        </shape>
+    </item>
+
+    <!--标签正常时的背景-->
+    <item>
+        <shape>
+            <stroke android:width="2dp" android:color="#656565"/>
+            <corners android:radius="10dp"/>
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+</selector>

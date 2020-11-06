@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/linearlayout_color">
+
+    <com.youth.banner.Banner
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        >
+        <ImageView
+            android:id="@+id/imageView_home"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+    </com.youth.banner.Banner>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <!--首页的内容-->
+            <include layout="@layout/home_content01"/>
+            <include layout="@layout/home_content02"/>
+            <include layout="@layout/home_content03"/>
+            <include layout="@layout/home_content04"/>
+            <include layout="@layout/home_content05"/>
+            <include layout="@layout/home_content06"/>
+            <include layout="@layout/home_content07"/>
+            <include layout="@layout/home_content08"/>
+            <include layout="@layout/home_content09"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

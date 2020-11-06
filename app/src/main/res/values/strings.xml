@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Wanandroid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--首页内容-->
+    <string name="name1">扔物线</string>
+    <string name="content1">Android面试黑洞--当我按下Home键再切回来，会发生什么？</string>
+    <string name="time1">3天前</string>
+    <string name="name2">只会写bug的咸鱼</string>
+    <string name="content2">Android实现高德地图轨迹回放</string>
+    <string name="time2">3天前</string>
+    <string name="name3">xiaoyang</string>
+    <string name="content3">每日一问|当Unsafe遇上final，超神奇的事情发生了？</string>
+    <string name="time3">3天前</string>
+    <string name="name4">彭丑丑</string>
+    <string name="content4">Android|说说从Android:text到TextView的过程</string>
+    <string name="time4">3天前</string>
+    <string name="name5">看心情写代码</string>
+    <string name="content5">腾讯Hardcoder Android通讯框架简介</string>
+    <string name="time5">3天前</string>
+    <string name="name6">闲鱼技术-云从</string>
+    <string name="content6">他把闲鱼APP长列表流畅度翻了倍（良心教程）</string>
+    <string name="time6">3天前</string>
+    <string name="name7">鸿洋</string>
+    <string name="content7">Android面试回答技巧14问|JVM篇</string>
+    <string name="time7">3天前</string>
+    <string name="name8">郭霖</string>
+    <string name="content8">官方Startup库解决不了的问题，我能解决</string>
+    <string name="time8">3天前</string>
+    <string name="name9">郭霖</string>
+    <string name="content9">token在Window当中是怎么工作的？</string>
+    <string name="time9">3天前</string>
+
+    <!--项目界面内容-->
+    <string name="project_title1">简单天气--Kotlin+JetPack+协程+MVVM架构</string>
+    <string name="project_content1">简单天气——遵循 Material Design 风格天气APP，使用彩云天气api，基于MVVM模式结合JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation、Room组件以及协程+Retrofit网络请求，使用Kotlin语言开发的一款天气app。</string>
+    <string name="project_time1">2020-09-09 23:42</string>
+    <string name="project_title2">基于 Kotlin + MVP 的 Wandroid</string>
+    <string name="project_content2">Android 资料的一个软件，基于鸿洋大佬的API，项目基于 Kotlin + MVP。</string>
+    <string name="project_time2">2020-09-01 21:32</string>
+    <string name="project_title3">Kotlin+JetPack+协程+retrofit2实现的MVVM架构Material Design风格版Wanandroid客户端</string>
+    <string name="project_content3">学习Kotlin,JetPack,协程的Wanandroid客户端
+Kotlin语言编程，JetPack组件架构，Material...</string>
+    <string name="project_time3">2020-09-01 21:30</string>
+    <string name="project_title4">一款高仿 Eyepetizer | 开眼短视频的 MVVM 开源项目</string>
+    <string name="project_content4">基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。</string>
+    <string name="project_time4">2020-06-22 00:43</string>
+    <string name="project_title5">真Material Design版的玩Android</string>
+    <string name="project_content5">真Material Design版的玩Android</string>
+    <string name="project_time5">2020-05-29 00:37</string>
+    <string name="project_title6">Android 仿微信的图片选择器</string>
+    <string name="project_content6">Android图片选择器，仿微信的图片选择器的样式和效果。支持图片的单选、限数量的多选和不限数量的多选。支持图片预览和图片文件夹的切换。支持在选择图片时调用相机拍照，也支持不用打开相册直接调用相机拍照。</string>
+    <string name="project_time6">2020-05-28 09:43</string>
+    <string name="project_title7">Kotlin-MVP开源app--开眼短视频</string>
+    <string name="project_content7">kotlin出来也好一段时间了，大家都在熟悉kotlin，kotlin在开发android的优势是逐渐显现（丰富的功能，并且在持续更新，能够快速运用在andorid上）。作为一个android开发者，熟悉kotlin必不可少，当你接手一个项目，或者demo，案例，是kotlin...</string>
+    <string name="project_time7">2020-09-01 21:33</string>
+    <string name="project_title8">『Flutter』一款风格简约功能丰富的天气</string>
+    <string name="project_content8">一款简约风格的 flutter 天气项目，提供实时、多日、24 小时、台风路径以及生活指数等服务，支持定位、删除、搜索等操作。
+
+作为 flutter 实战项目，包含状态管理、网络请求、数据缓存、自定义 view、自定义动画，三方统计，事件管理等技术点，实用且丰富。</string>
+    <string name="project_time8">2020-09-01 21:30</string>
+    <string name="project_title9">Flutter仿微博客户端</string>
+    <string name="project_content9">基于flutter的仿微博客户端
+
+仿微博最新版本,还原微博80%的界面,总共涉及到了几十个界面和接口,用到了flutter中的大部分组件
+
+分为首页 视频 发现 消息 我的五个模块</string>
+    <string name="project_time9">2020-05-08 22:15</string>
+    <string name="project_title10">一款基于Flutter实现的精美仿开眼视频跨平台App,适合新手入...</string>
+    <string name="project_content10">基于Fullter实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发,希望和大家共同成长,喜欢的话，欢迎start或fork!</string>
+    <string name="project_time10">2020-04-29 01:18</string>
+    <string name="project_title11">Hey Flutter: 体验较佳的WanAndroid Flutter客户端</string>
+    <string name="project_content11">:fire:项目基于 Flutter 移动应用框架，采用 Dart 语言编写，打造体验较佳的WanAndroid客户端</string>
+    <string name="project_time11">2020-04-26 21:17</string>
+    <string name="project_title12">Kotlin版玩安卓，超级简洁的界面，沉浸式的体验让你纵享丝滑。</string>
+    <string name="project_content12">App基于MVP架构，全部使用Kotlin语言开发，基本全部实现Wan Android API对应所有功能，后续会增加额外功能，欢迎关注，欢迎star。</string>
+    <string name="project_time12">2020-03-24 00:47</string>
+    <string name="project_title13">面向 Android 高级工程师的一份面试宝典 (持续更新)</string>
+    <string name="project_content13">疫情一过，我相信将会是面试求职的高峰时期，如果此时手里有份高质量的面试宝典，那么你将得心应手面对考官各种问题。虽然不敢保证你能应聘上心仪的职位，但是能保证看完这些内容你的收获将...</string>
+    <string name="project_time13">2020-03-17 23:42</string>
+    <string name="project_title14">Kotlin的魔能机甲——KtArmor</string>
+    <string name="project_content14">KtArmor 寓意着 为Android 赋予战斗装甲, 方便开发者快速进行Android 开发。节约开发者开发时间。</string>
+    <string name="project_time14">2019-08-16 00:43</string>
+    <string name="project_title15">AopArms一款基于AOP的Android注解框架</string>
+    <string name="project_content15">AopArms编写了Android开发中常用的一套注解，如日志、异步处理、缓存、SP、延迟操作、定时任务、重试机制、try-catch安全机制、过滤频繁点击、拦截等，后续还会有更多更强大的注解功能加入</string>
+    <string name="project_time15">2019-07-23 16:18</string>
+    <string name="project_title16">AndroidUtilCodeKTX ！是时候提升你的开发效率了 ！(持续更新中...)</string>
+    <string name="project_content16">该类库利用 Kotlin 语言特性合理封装了 Android 开发中的常用操作，同时也收集了开发过程中的常用工具类。 旨在做同样的事情，写更少的代码，提升开发效率。</string>
+    <string name="project_time16">2019-07-23 16:15</string>
+    <string name="project_title17">又一个开放清单 API ，拿着 API 去玩耍吧...</string>
+    <string name="project_content17">柳叶清单是自己开发的一个 Web 清单应用，目前网页版已经上线运行，地址如下: http://gudong.name/list 于此同时，为了方便其他开发者使用清单服务，现在开放了部分 API，以便大..</string>
+    <string name="project_time17">2019-05-28 20:02</string>
+    <string name="project_title18">这是一份关于 Java 、Kotlin 、 Android 的学习笔记</string>
+    <string name="project_content18">这是一份关于 Android、Java、Kotlin 的学习笔记，既包含对基础知识点的介绍，也包含对一些重要知识点的源码解析，希望对你也有所帮助</string>
+    <string name="project_time18">2019-03-18 23:33</string>
+    <string name="project_title19">动态渐变进度</string>
+    <string name="project_content19">可以实现： 1. “A颜色” -> “B颜色” 渐变 2. “A渐变” -> "B渐变" 渐变 重点：渐变的分界点位置可以进行调整</string>
+    <string name="project_time19">2019-11-07 10:39</string>
+    <string name="project_title20">CoffeeDrawable（搅拌咖啡下拉刷新动画）</string>
+    <string name="project_content20">搅拌咖啡下拉刷新动画</string>
+    <string name="project_time20">2019-10-13 23:46</string>
+    <string name="project_title21">Flutter 自定义组件之贝塞尔曲线绘制波浪球</string>
+    <string name="project_content21">贝塞尔曲线(Bézier curve)，又称贝兹曲线或贝济埃曲线，是应用于二维图形应用程序的数学曲线。</string>
+    <string name="project_time21">2019-09-03 00:16</string>
+    <string name="project_title22">高仿微信底部导航栏动画</string>
+    <string name="project_content22">原原本本还原微信底部导航栏动画</string>
+    <string name="project_time22">2019-08-20 00:43</string>
+    <string name="project_title23">ArrowDrawable（拉弓射箭动画的下拉刷新）</string>
+    <string name="project_content23">纯Paint实现的一个射箭效果，可用作Loading动画。</string>
+    <string name="project_time23">2019-08-16 00:38</string>
+    <string name="project_title24">简单实现可以翻转的画廊</string>
+    <string name="project_content24">这是一个简单的画廊实现. 受到 Flipboard App 的样式启发,总想做一个类似的效果试试. 目前实现原理特别简单, 一个自定义 view 加上内部维护的三个 bitmap 对象, 加上手势控制(ACTION_MOVE 和 fling — VelocityTracker)以及 camera.rotateX...</string>
+    <string name="project_time24">2019-07-22 22:34</string>
+    <string name="project_title25">可分组显示和头部吸顶的RecyclerViewAdapter：GroupedRecyclerViewAdapter</string>
+    <string name="project_content25">GroupedRecyclerViewAdapter可以很方便的实现RecyclerView的分组显示，并且每个组都可以包含组头、组尾和子项；可以方便实现多种Type类型的列表，可以实现如QQ联系人的列表一样的列表展开收起功能，还可以实现头部悬浮吸顶功能等。</string>
+    <string name="project_time25">2020-05-21 23:01</string>
+    <string name="project_title26">GridPager组件，短短几行代码即可实现首页分类多页展示</string>
+    <string name="project_content26">ViewPager结合GridView，轻松实现类似美团首页分类多页展示。也可用于表情面板的展示。链式调用，属性配置，几行代码轻松搞定。</string>
+    <string name="project_time26">2019-08-16 00:37</string>
+    <string name="project_title27">一个零耦合的侧滑菜单 SwipeMenuLayout</string>
+    <string name="project_content27">一个零耦合的侧滑菜单，支持RecyclerView、ListView、GridView等不同条目布局，支持菜单在左或在右，可选滑动阻塞，是否禁用等功能</string>
+    <string name="project_time27">2019-06-28 21:45</string>
+    <string name="project_title28">复杂type封装库，支持上拉加载下拉刷新，支持多种不同状态管理切换</string>
+    <string name="project_content28">自定义支持上拉加载更多，下拉刷新，可以自定义头部和底部，可以添加多个headerView和footerView，使用一个原生recyclerView就可以搞定复杂界面。支持自由切换状态【加载中，加载成...</string>
+    <string name="project_time28">2019-06-01 10:53</string>
+    <string name="project_title29">一款针对RecyclerView高效刷新，多类型列表，异步数据更新，崩溃等各种复杂难处理...</string>
+    <string name="project_content29">根据实际项目中各种复杂的列表需求，解决DiffUtil使用不便，易出错而实现的一个高效，高性能的列表库 ，侵入性低，致力于将列表需求的开发精力用于具体的Item Holder上。 使用DiffUtil作为来做更小...</string>
+    <string name="project_time29">2019-05-28 20:02</string>
+    <string name="project_title30">Linkage-RecyclerView：即使不用饿了么，也请不要错过这个库！</string>
+    <string name="project_content30">LinkageRecyclerView 是一款基于 MVP 架构开发的二级联动列表控件。它是因 “RxJava 魔法师” 这个项目的需求而存在。 在更初寻遍了 GitHub 也没有找到合适的开源库（高度解耦、可远程依赖）之后...</string>
+    <string name="project_time30">2019-05-12 22:04</string>
+
+    <string name="about_WanAndroid1">本网站每天新增20~30篇优质文章，并加入到现有分类中，力求整理出一份优质而又详尽的知识体系，闲暇时间不妨上来学习下知识；除此以外，并为大家提供平时开发过程中常用的工具以及常用的网址导航。</string>
+    <string name="about_WanAndroid2">当然这只是我们目前的功能，未来我们将提供更多更加便捷的功能...</string>
+    <string name="about_WanAndroid3">如果您有任何好的建议:</string>
+    <string name="about_WanAndroid4">—关于网站排版</string>
+    <string name="about_WanAndroid5">—关于新增常用网址以及工具</string>
+    <string name="about_WanAndroid6">—未来你希望增加的功能等</string>
+</resources>

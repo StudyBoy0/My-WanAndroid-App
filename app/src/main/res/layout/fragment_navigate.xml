@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="开发环境"
+                style="@style/navigate_textview"/>
+
+            <com.donkingliang.labels.LabelsView
+                android:id="@+id/labels01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:labelBackground="@drawable/navigate_label_bg"
+                app:labelTextColor="@drawable/navigate_label_tv"
+                app:labelTextSize="14sp"
+                app:labelTextPaddingTop="15dp"
+                app:labelTextPaddingBottom="15dp"
+                app:labelTextPaddingLeft="20dp"
+                app:labelTextPaddingRight="20dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="SINGLE"
+                app:maxLines="3"
+                app:maxSelect="1"
+                app:minSelect="1"
+                app:isIndicator="true"
+                app:labelGravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="基础知识"
+                style="@style/navigate_textview"/>
+
+            <com.donkingliang.labels.LabelsView
+                android:id="@+id/labels02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:labelBackground="@drawable/navigate_label_bg"
+                app:labelTextColor="@drawable/navigate_label_tv"
+                app:labelTextSize="14sp"
+                app:labelTextPaddingTop="15dp"
+                app:labelTextPaddingBottom="15dp"
+                app:labelTextPaddingLeft="20dp"
+                app:labelTextPaddingRight="20dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="SINGLE"
+                app:maxLines="3"
+                app:maxSelect="1"
+                app:minSelect="1"
+                app:isIndicator="true"
+                app:labelGravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="四大组件"
+                style="@style/navigate_textview"/>
+
+            <com.donkingliang.labels.LabelsView
+                android:id="@+id/labels03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:labelBackground="@drawable/navigate_label_bg"
+                app:labelTextColor="@drawable/navigate_label_tv"
+                app:labelTextSize="14sp"
+                app:labelTextPaddingTop="15dp"
+                app:labelTextPaddingBottom="15dp"
+                app:labelTextPaddingLeft="20dp"
+                app:labelTextPaddingRight="20dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="SINGLE"
+                app:maxLines="3"
+                app:maxSelect="1"
+                app:minSelect="1"
+                app:isIndicator="true"
+                app:labelGravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="常用控件"
+                style="@style/navigate_textview"/>
+
+            <com.donkingliang.labels.LabelsView
+                android:id="@+id/labels04"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:labelBackground="@drawable/navigate_label_bg"
+                app:labelTextColor="@drawable/navigate_label_tv"
+                app:labelTextSize="14sp"
+                app:labelTextPaddingTop="15dp"
+                app:labelTextPaddingBottom="15dp"
+                app:labelTextPaddingLeft="20dp"
+                app:labelTextPaddingRight="20dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="SINGLE"
+                app:maxLines="3"
+                app:maxSelect="1"
+                app:minSelect="1"
+                app:isIndicator="true"
+                app:labelGravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="用户交互"
+                style="@style/navigate_textview"/>
+
+            <com.donkingliang.labels.LabelsView
+                android:id="@+id/labels05"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:labelBackground="@drawable/navigate_label_bg"
+                app:labelTextColor="@drawable/navigate_label_tv"
+                app:labelTextSize="14sp"
+                app:labelTextPaddingTop="15dp"
+                app:labelTextPaddingBottom="15dp"
+                app:labelTextPaddingLeft="20dp"
+                app:labelTextPaddingRight="20dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="SINGLE"
+                app:maxLines="3"
+                app:maxSelect="1"
+                app:minSelect="1"
+                app:isIndicator="true"
+                app:labelGravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="网络访问"
+                style="@style/navigate_textview"/>
+
+            <com.donkingliang.labels.LabelsView
+                android:id="@+id/labels06"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:labelBackground="@drawable/navigate_label_bg"
+                app:labelTextColor="@drawable/navigate_label_tv"
+                app:labelTextSize="14sp"
+                app:labelTextPaddingTop="15dp"
+                app:labelTextPaddingBottom="15dp"
+                app:labelTextPaddingLeft="20dp"
+                app:labelTextPaddingRight="20dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="SINGLE"
+                app:maxLines="3"
+                app:maxSelect="1"
+                app:minSelect="1"
+                app:isIndicator="true"
+                app:labelGravity="center"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
